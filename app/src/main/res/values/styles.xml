@@ -51,4 +51,12 @@
         <item name="android:textColor">@android:color/black</item>
     </style>
 
+    <style name="ButtonGeneral" parent="TextAppearance.AppCompat.Widget.Button.Colored">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginBottom">@dimen/activity_vertical_margin</item>
+    </style>
+
 </resources>

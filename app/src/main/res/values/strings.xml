@@ -23,4 +23,8 @@
     <string name="_735">$735</string>
     <string name="stok_hanya_5_buah">Stok hanya 5 buah</string>
     <string name="spesifikasi">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="battery">Battery</string>
+    <string name="size">Size</string>
+    <string name="google_pixel">Google Pixel</string>
 </resources>
